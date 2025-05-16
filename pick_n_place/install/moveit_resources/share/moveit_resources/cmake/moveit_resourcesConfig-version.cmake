@@ -1,0 +1,1 @@
+/home/achieng/robotics_projects/pick_n_place/build/moveit_resources/ament_cmake_core/moveit_resourcesConfig-version.cmake

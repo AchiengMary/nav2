@@ -1,0 +1,15 @@
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/ament_index/resource_index/package_run_dependencies/moveit_resources
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/ament_index/resource_index/parent_prefix_path/moveit_resources
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/environment/ament_prefix_path.sh
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/environment/ament_prefix_path.dsv
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/environment/path.sh
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/environment/path.dsv
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/local_setup.bash
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/local_setup.sh
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/local_setup.zsh
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/local_setup.dsv
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/package.dsv
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/ament_index/resource_index/packages/moveit_resources
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig.cmake
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig-version.cmake
+/home/achieng/robotics_projects/pick_n_place/install/moveit_resources/share/moveit_resources/package.xml

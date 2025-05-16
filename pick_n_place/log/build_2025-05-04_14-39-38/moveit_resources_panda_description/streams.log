@@ -1,0 +1,63 @@
+[0.043s] Invoking command in '/home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/achieng/robotics_projects/pick_n_place/install/panda_sim:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/achieng/robotics_projects/pick_n_place/src/moveit_resources/panda_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description
+[0.181s] -- The C compiler identification is GNU 13.3.0
+[0.329s] -- The CXX compiler identification is GNU 13.3.0
+[0.368s] -- Detecting C compiler ABI info
+[0.581s] -- Detecting C compiler ABI info - done
+[0.609s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.610s] -- Detecting C compile features
+[0.610s] -- Detecting C compile features - done
+[0.632s] -- Detecting CXX compiler ABI info
+[0.888s] -- Detecting CXX compiler ABI info - done
+[0.918s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.919s] -- Detecting CXX compile features
+[0.921s] -- Detecting CXX compile features - done
+[0.933s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.341s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.549s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.991s] -- Configuring done (1.9s)
+[1.997s] -- Generating done (0.0s)
+[2.002s] -- Build files have been written to: /home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description
+[2.011s] Invoked command in '/home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/achieng/robotics_projects/pick_n_place/install/panda_sim:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/achieng/robotics_projects/pick_n_place/src/moveit_resources/panda_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description
+[2.014s] Invoking command in '/home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/achieng/robotics_projects/pick_n_place/install/panda_sim:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description -- -j4 -l4
+[2.131s] Invoked command in '/home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/achieng/robotics_projects/pick_n_place/install/panda_sim:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description -- -j4 -l4
+[2.154s] Invoking command in '/home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/achieng/robotics_projects/pick_n_place/install/panda_sim:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description
+[2.176s] -- Install configuration: ""
+[2.177s] -- Execute custom install script
+[2.177s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/ament_index/resource_index/package_run_dependencies/moveit_resources_panda_description
+[2.196s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/ament_index/resource_index/parent_prefix_path/moveit_resources_panda_description
+[2.219s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.sh
+[2.241s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.dsv
+[2.263s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.sh
+[2.281s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.dsv
+[2.302s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.bash
+[2.327s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.sh
+[2.348s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.zsh
+[2.371s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.dsv
+[2.395s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.dsv
+[2.416s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/ament_index/resource_index/packages/moveit_resources_panda_description
+[2.440s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig.cmake
+[2.460s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig-version.cmake
+[2.483s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.xml
+[2.502s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/finger.stl
+[2.527s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/hand.stl
+[2.555s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link0.stl
+[2.578s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link1.stl
+[2.601s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link2.stl
+[2.631s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link3.stl
+[2.653s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link4.stl
+[2.674s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link5.stl
+[2.708s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link6.stl
+[2.761s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link7.stl
+[2.793s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/finger.dae
+[2.816s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/hand.dae
+[2.838s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link0.dae
+[2.860s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link1.dae
+[2.882s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link2.dae
+[2.904s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link3.dae
+[2.925s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link4.dae
+[2.944s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link5.dae
+[2.970s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link6.dae
+[3.001s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link7.dae
+[3.026s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf/panda.urdf
+[3.057s] -- Symlinking: /home/achieng/robotics_projects/pick_n_place/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf/panda.urdf.xacro
+[3.114s] Invoked command in '/home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/achieng/robotics_projects/pick_n_place/install/panda_sim:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/achieng/robotics_projects/pick_n_place/build/moveit_resources_panda_description

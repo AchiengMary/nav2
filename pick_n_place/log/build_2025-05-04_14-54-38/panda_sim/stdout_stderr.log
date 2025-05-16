@@ -1,0 +1,13 @@
+running develop
+running egg_info
+writing panda_sim.egg-info/PKG-INFO
+writing dependency_links to panda_sim.egg-info/dependency_links.txt
+writing requirements to panda_sim.egg-info/requires.txt
+writing top-level names to panda_sim.egg-info/top_level.txt
+reading manifest file 'panda_sim.egg-info/SOURCES.txt'
+writing manifest file 'panda_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/achieng/robotics_projects/pick_n_place/install/panda_sim/lib/python3.12/site-packages/panda-sim.egg-link (link to .)
+
+Installed /home/achieng/robotics_projects/pick_n_place/build/panda_sim
+running symlink_data

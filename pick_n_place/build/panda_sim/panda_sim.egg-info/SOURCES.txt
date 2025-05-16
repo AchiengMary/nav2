@@ -1,0 +1,11 @@
+package.xml
+setup.cfg
+setup.py
+launch/panda_sim_moveit.launch.py
+panda_sim.egg-info/PKG-INFO
+panda_sim.egg-info/SOURCES.txt
+panda_sim.egg-info/dependency_links.txt
+panda_sim.egg-info/requires.txt
+panda_sim.egg-info/top_level.txt
+panda_sim.egg-info/zip-safe
+resource/panda_sim
